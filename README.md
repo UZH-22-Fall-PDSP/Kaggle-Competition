@@ -1,3 +1,5 @@
+##  👾 Kaggle Competion
+
 This competition is the a part of your course Prototyping Data Science Products. By joining this competition you ensure that your algorithm behind your web application is reliable and accurate.  
   
 Refer to the following kaggle comepetition site
