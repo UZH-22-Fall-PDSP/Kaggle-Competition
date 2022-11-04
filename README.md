@@ -18,5 +18,6 @@ The submission files should contain an "Id" column (corresponding to the unique 
 
 The file should contain a header and have the following format:
 
-Id, Predicted   
- 134, 0.35 
+|  ID | Predicted  |
+|-----|------------|
+| 134 |    0.35    |
